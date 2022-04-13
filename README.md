@@ -1,6 +1,6 @@
 # Inspector - Editor
  
-Hola Gregorio, decidi realizar los ejercicio mostrados en los videos de youtube para tenerlo para uso propio.
+Hola Gregorio, decidi realizar los ejercicio mostrados en los videos de youtube para tenerlos como uso propio.
 
 Luego realice un ejercicio propio, que consiste en la ejecucion de una animacion y cuenta de dinero a traves de
 un boton (Generar Dinero) en el inspector de GameController, este boton podria ser de mucha utilidad por dos 
